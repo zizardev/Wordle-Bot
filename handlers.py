@@ -3,7 +3,7 @@ from aiogram.types import Message
 from aiogram.filters import CommandStart, Command
 
 
-import app.keyboard as kb
+import app.keyboards as kb
 
 
 router = Router()
